@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EsemkaGym</string>
+    <string name="register">Please complete the\nmembership payment\nwhen you visit the Gym!</string>
+    <string name="member">Membership starts on the date of payment</string>
+    <string name="date">8 October 2024</string>
+    <string name="code">X091P2</string>
+</resources>
